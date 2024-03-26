@@ -1,0 +1,14 @@
+.Converter {
+    display: flex;
+    align-items: center;
+    max-width: 540px;
+}
+.ConverterInput {
+    position: relative;
+    display: flex;
+    flex: 1 1;
+    box-sizing: border-box;
+    height: 60px;
+    border: 2px solid;
+    border-radius: 10px;
+}
